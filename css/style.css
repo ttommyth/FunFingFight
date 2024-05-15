@@ -1,0 +1,12 @@
+canvas{
+	position:absolute;
+}
+
+#menuArea, #gameArea, #intro{
+	border-style: solid;
+	border-width: 2px;
+}
+
+#menuArea{
+	left:910px;
+}
