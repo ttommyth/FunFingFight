@@ -22,7 +22,7 @@ The game is primarily controlled using the mouse. Players can select units by cl
 
 ## Game Screenshots
 
-_Include some screenshots of your game here to give potential players a glimpse of the gameplay and graphics._
+![Game Screenshot](img/share.png)
 
 ## Code Structure
 
